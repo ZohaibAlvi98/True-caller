@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1545037517 source:d:\ubit\4th sems\data structure\ds project\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<fstream>
+

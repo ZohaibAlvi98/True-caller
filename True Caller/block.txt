@@ -1,0 +1,2 @@
+To block calls, open the Phone app, select Call History, tap the number, then select Block Contact or Block Caller. 
+To block calls, open the Phone app, select Menu > Settings > Call Reject > Reject Calls From and add numbers. 
